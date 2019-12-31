@@ -1,4 +1,4 @@
-EcoSmart Android Application
+EcoSmart Android Application as part of the Green Food challenge
 
 ![Add Meal](READMEPictures/addMeals.png)
 
